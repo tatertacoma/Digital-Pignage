@@ -1,4 +1,4 @@
-# Digital-Pinage
+# Digital-Pignage
 Bare-bones simple slideshow kiosk image viewer.
 User rclone to download files from cloud and feh with X to display images.
 
